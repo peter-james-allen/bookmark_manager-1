@@ -17,7 +17,12 @@ As a user
 So I can remove my bookmark from Bookmark Manager
 I want to delete a bookmark
 ```
-
+User story 4
+```
+As a user
+So I can change a bookmark in Bookmark Manager
+I want to update a bookmark
+```
 ![picture](https://raw.githubusercontent.com/rhc07/bookmark_manager/master/images/Screenshot%202021-02-22%20at%2015.10.18.png)
 
 ### To set up a database, please do the following:
